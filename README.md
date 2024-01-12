@@ -96,7 +96,7 @@ bool isValidPlace(int row, int col, int num) {
 
 ```
 
-## Step 6 - Bracktracking - Take a number, use recursive function is used to solve sudoku, if the current solution is not feasible then backtrack to get another number
+## Step 6 - Bracktracking - Take a number, use recursive function to check if it can be a sudoku solution, if not then backtrack to get another number
 
 ```
 bool solveSudoku() {
