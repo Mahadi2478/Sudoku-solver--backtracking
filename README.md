@@ -52,7 +52,7 @@ bool isPresentInBox(int boxStartRow, int boxStartCol, int num) {    //check whet
 
 ```
 
-# Step 3 - Create function to print sudoku after solving
+## Step 3 - Create function to print sudoku after solving
 
 ```
 
@@ -72,7 +72,7 @@ void sudokuGrid() {    //print the sudoku grid after solve
 
 ```
 
-# Step 4 - Function to find an empty space with 0, then update the row & column
+## Step 4 - Function to find an empty space with 0, then update the row & column
 
 ```
 
